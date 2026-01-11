@@ -1,11 +1,11 @@
-﻿## Trust-Aware-Health-Insights-from-Wearable-Data
-# Project Overview
+# Trust-Aware-Health-Insights-from-Wearable-Data
+## Project Overview
 
 Consumer health platforms increasingly rely on wearable data to generate insights that influence user behavior. While these systems provide valuable feedback, misinterpretation of data can lead to unnecessary anxiety, false confidence, or poor decisions.
 
 This project explores how wearable health data should be interpreted, contextualized, and communicated responsibly, using publicly available fitness tracker data as a case study.
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 Analyze wearable health data to understand variability and noise
 
@@ -15,7 +15,7 @@ Examine the limits of automated health insights
 
 Propose safer, trust-aware interpretations for consumer health products
 
-# 📊 Dataset
+## 📊 Dataset
 
 Source: Fitbit Fitness Tracker Data (Kaggle)
 
@@ -33,7 +33,7 @@ Sleep duration (optional)
 
 This dataset represents non-clinical, consumer-grade health data and is suitable for studying interpretation risk rather than medical diagnosis.
 
-# 🔍 Analysis Approach
+## 🔍 Analysis Approach
 
 Exploratory Data Analysis
 
@@ -58,4 +58,5 @@ Product Interpretation Lens
 How insights might be misunderstood by users
 
 Where guardrails are necessary
+
 
